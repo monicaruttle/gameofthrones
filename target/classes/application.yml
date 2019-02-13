@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://m001-student:1234@cluster0-bveaa.mongodb.net/test?retryWrites=true
+      database: gameofthrones
